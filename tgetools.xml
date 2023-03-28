@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+   New Perspectives on XML 3rd Edition
+   Tutorial 8
+   Case Problem 4
+
+   The Good Earth equipment list
+
+   Filename:         equipment.xml
+   Supporting Files: 
+
+-->
+
+<equipment>
+	<tool toolID="EM247-16">
+		<description>4WD MICRO BACKHOE 6' DIG DEPTH</description>
+		<category>Earth Moving</category>
+		<dailyRate>220</dailyRate>
+		<weeklyRate>550</weeklyRate>
+	</tool>
+	<tool toolID="EM381-97">
+		<description>2WD TERRAMITE BACKHOE 8'3"DIG</description>
+		<category>Earth Moving</category>
+		<dailyRate>240</dailyRate>
+		<weeklyRate>740</weeklyRate>
+	</tool>
+	<tool toolID="EM576-90">
+		<description>4WD TERRAMITE BACKHOE 8'3" DIG</description>
+		<category>Earth Moving</category>
+		<dailyRate>290</dailyRate>
+		<weeklyRate>765</weeklyRate>
+	</tool>
+	<tool toolID="EM860-45">
+		<description>2WD STANDARD BACKHOE CANOPY</description>
+		<category>Earth Moving</category>
+		<dailyRate>305</dailyRate>
+		<weeklyRate>900</weeklyRate>
+	</tool>
+	<tool toolID="EM332-87">
+		<description>4WD STANDARD BACKHOE CANOPY</description>
+		<category>Earth Moving</category>
+		<dailyRate>335</dailyRate>
+		<weeklyRate>1100</weeklyRate>
+	</tool>
+	<tool toolID="EM478-95">
+		<description>4WD STANDARD BACKHOE CAB</description>
+		<category>Earth Moving</category>
+		<dailyRate>355</dailyRate>
+		<weeklyRate>920</weeklyRate>
+	</tool>
+	<tool toolID="AC295-69">
+		<description>5 CFM AIR COMPRESSOR ELECTRIC</description>
+		<category>Air Tools</category>
+		<dailyRate>35</dailyRate>
+		<weeklyRate>100</weeklyRate>
+	</tool>
+	<tool toolID="AC286-15">
+		<description>5 CFM AIR COMPRESSOR GAS</description>
+		<category>Air Tools</category>
+		<dailyRate>50</dailyRate>
+		<weeklyRate>100</weeklyRate>
+	</tool>
+	<tool toolID="AC354-50">
+		<description>7 CFM AIR COMPRESSOR ELECTRIC</description>
+		<category>Air Tools</category>
+		<dailyRate>40</dailyRate>
+		<weeklyRate>155</weeklyRate>
+	</tool>
+	<tool toolID="AC765-45">
+		<description>8 CFM AIR COMPRESSOR GAS</description>
+		<category>Air Tools</category>
+		<dailyRate>45</dailyRate>
+		<weeklyRate>145</weeklyRate>
+	</tool>
+	<tool toolID="AC886-88">
+		<description>14 CFM AIR COMPRESSOR GAS</description>
+		<category>Air Tools</category>
+		<dailyRate>55</dailyRate>
+		<weeklyRate>150</weeklyRate>
+	</tool>
+	<tool toolID="AC539-55">
+		<description>20 CFM AIR COMPRESSOR GAS</description>
+		<category>Air Tools</category>
+		<dailyRate>60</dailyRate>
+		<weeklyRate>185</weeklyRate>
+	</tool>
+	<tool toolID="CT339-82">
+		<description>HAND TAMPER</description>
+		<category>Compaction</category>
+		<dailyRate>8</dailyRate>
+		<weeklyRate>19</weeklyRate>
+	</tool>
+	<tool toolID="CT598-32">
+		<description>JUMPING JACK TRENCH FOOT</description>
+		<category>Compaction</category>
+		<dailyRate>8</dailyRate>
+		<weeklyRate>19</weeklyRate>
+	</tool>
+	<tool toolID="CT538-25">
+		<description>PLATE TAMPER 140LB CLASS 14" WIDE</description>
+		<category>Compaction</category>
+		<dailyRate>87</dailyRate>
+		<weeklyRate>295</weeklyRate>
+	</tool>
+	<tool toolID="CT660-14">
+		<description>PLATE TAMPER 200LB CLASS 19.5" WIDE</description>
+		<category>Compaction</category>
+		<dailyRate>76</dailyRate>
+		<weeklyRate>215</weeklyRate>
+	</tool>
+	<tool toolID="CT522-80">
+		<description>PLATE TAMPER REVERSIBLE 300LB 18" WIDE</description>
+		<category>Compaction</category>
+		<dailyRate>160</dailyRate>
+		<weeklyRate>445</weeklyRate>
+	</tool>
+	<tool toolID="CT881-19">
+		<description>PLATE TAMPER REVERSIBLE 900LB 24" WIDE</description>
+		<category>Compaction</category>
+		<dailyRate>300</dailyRate>
+		<weeklyRate>735</weeklyRate>
+	</tool>
+	<tool toolID="CT606-49">
+		<description>TRENCH ROLLER W/ REMOTE</description>
+		<category>Compaction</category>
+		<dailyRate>275</dailyRate>
+		<weeklyRate>970</weeklyRate>
+	</tool>
+	<tool toolID="CT837-55">
+		<description>48" SMOOTH DRUM RIDE-ON ROLLER DIESEL</description>
+		<category>Compaction</category>
+		<dailyRate>290</dailyRate>
+		<weeklyRate>930</weeklyRate>
+	</tool>
+	<tool toolID="CT946-89">
+		<description>66" SMOOTH DRUM RIDE-ON ROLLER DIESEL</description>
+		<category>Compaction</category>
+		<dailyRate>530</dailyRate>
+		<weeklyRate>1525</weeklyRate>
+	</tool>
+	<tool toolID="FL623-63">
+		<description>WALKIE STACKER</description>
+		<category>Forklifts</category>
+		<dailyRate>180</dailyRate>
+		<weeklyRate>410</weeklyRate>
+	</tool>
+	<tool toolID="FL694-41">
+		<description>3000LB IND FORKLIFT GAS/PROPANE</description>
+		<category>Forklifts</category>
+		<dailyRate>245</dailyRate>
+		<weeklyRate>650</weeklyRate>
+	</tool>
+	<tool toolID="FL743-64">
+		<description>3000LB ELECTRIC ORDER PICKER</description>
+		<category>Forklifts</category>
+		<dailyRate>130</dailyRate>
+		<weeklyRate>385</weeklyRate>
+	</tool>
+	<tool toolID="FL224-61">
+		<description>5000LB IND FORKLIFT ELECTRIC</description>
+		<category>Forklifts</category>
+		<dailyRate>340</dailyRate>
+		<weeklyRate>920</weeklyRate>
+	</tool>
+	<tool toolID="FL886-87">
+		<description>5000LB IND FORKLIFT GAS / PROPANE</description>
+		<category>Forklifts</category>
+		<dailyRate>200</dailyRate>
+		<weeklyRate>600</weeklyRate>
+	</tool>
+	<tool toolID="FL392-76">
+		<description>5000LB FORKLIFT LOW MAST GAS / PROPANE</description>
+		<category>Forklifts</category>
+		<dailyRate>200</dailyRate>
+		<weeklyRate>600</weeklyRate>
+	</tool>
+	<tool toolID="FL662-80">
+		<description>5000LB FORKLIFT W/DIGITAL SCALE D/F</description>
+		<category>Forklifts</category>
+		<dailyRate>205</dailyRate>
+		<weeklyRate>550</weeklyRate>
+	</tool>
+	<tool toolID="LA940-79">
+		<description>DETHATCHER</description>
+		<category>Lawn</category>
+		<dailyRate>75</dailyRate>
+		<weeklyRate>190</weeklyRate>
+	</tool>
+	<tool toolID="LA457-27">
+		<description>VERTICUT</description>
+		<category>Lawn</category>
+		<dailyRate>70</dailyRate>
+		<weeklyRate>200</weeklyRate>
+	</tool>
+	<tool toolID="LA568-57">
+		<description>27" AERATOR</description>
+		<category>Lawn</category>
+		<dailyRate>90</dailyRate>
+		<weeklyRate>245</weeklyRate>
+	</tool>
+	<tool toolID="LA116-72">
+		<description>18" AERATOR</description>
+		<category>Lawn</category>
+		<dailyRate>95</dailyRate>
+		<weeklyRate>260</weeklyRate>
+	</tool>
+	<tool toolID="LA416-93">
+		<description>AERATOR TOW-BEHIND</description>
+		<category>Lawn</category>
+		<dailyRate>55</dailyRate>
+		<weeklyRate>155</weeklyRate>
+	</tool>
+	<tool toolID="LA178-22">
+		<description>LAWN OVERSEEDER</description>
+		<category>Lawn</category>
+		<dailyRate>85</dailyRate>
+		<weeklyRate>220</weeklyRate>
+	</tool>
+	<tool toolID="LA402-96">
+		<description>LAWN OVERSEEDER / DETHATCHER SELF PROP</description>
+		<category>Lawn</category>
+		<dailyRate>92</dailyRate>
+		<weeklyRate>235</weeklyRate>
+	</tool>
+	<tool toolID="LA654-90">
+		<description>SOD CUTTER</description>
+		<category>Lawn</category>
+		<dailyRate>110</dailyRate>
+		<weeklyRate>315</weeklyRate>
+	</tool>
+	<tool toolID="LA704-98">
+		<description>HIGH WEED MOWER</description>
+		<category>Lawn</category>
+		<dailyRate>90</dailyRate>
+		<weeklyRate>280</weeklyRate>
+	</tool>
+	<tool toolID="LA188-26">
+		<description>WALK BEHIND BRUSH CUTTER</description>
+		<category>Lawn</category>
+		<dailyRate>100</dailyRate>
+		<weeklyRate>270</weeklyRate>
+	</tool>
+	<tool toolID="LA394-86">
+		<description>LANDSCAPE BED EDGER</description>
+		<category>Lawn</category>
+		<dailyRate>100</dailyRate>
+		<weeklyRate>270</weeklyRate>
+	</tool>
+	<tool toolID="LA695-48">
+		<description>13" GROUND SAW TRENCHER</description>
+		<category>Lawn</category>
+		<dailyRate>110</dailyRate>
+		<weeklyRate>300</weeklyRate>
+	</tool>
+	<tool toolID="LA942-26">
+		<description>4" TRENCHER/CABLE INSTALLER</description>
+		<category>Lawn</category>
+		<dailyRate>70</dailyRate>
+		<weeklyRate>180</weeklyRate>
+	</tool>
+	<tool toolID="LA284-41">
+		<description>LOG SPLITTER</description>
+		<category>Lawn</category>
+		<dailyRate>75</dailyRate>
+		<weeklyRate>240</weeklyRate>
+	</tool>
+	<tool toolID="LA467-72">
+		<description>REAR TINE TILLER</description>
+		<category>Lawn</category>
+		<dailyRate>90</dailyRate>
+		<weeklyRate>265</weeklyRate>
+	</tool>
+	<tool toolID="LA170-14">
+		<description>POST HOLE AUGER 1 MAN 1.6 HP</description>
+		<category>Lawn</category>
+		<dailyRate>70</dailyRate>
+		<weeklyRate>190</weeklyRate>
+	</tool>
+	<tool toolID="LA198-79">
+		<description>TOW BEHIND POST HOLE DIGGER AUGER</description>
+		<category>Lawn</category>
+		<dailyRate>90</dailyRate>
+		<weeklyRate>230</weeklyRate>
+	</tool>
+	<tool toolID="LA290-31">
+		<description>GAS POWERED DRILL</description>
+		<category>Lawn</category>
+		<dailyRate>60</dailyRate>
+		<weeklyRate>175</weeklyRate>
+	</tool>
+	<tool toolID="PU416-64">
+		<description>1" CENTRIFUGAL PUMP</description>
+		<category>Pumps</category>
+		<dailyRate>25</dailyRate>
+		<weeklyRate>60</weeklyRate>
+	</tool>
+	<tool toolID="PU154-28">
+		<description>2" CENTRIFUGAL PUMP</description>
+		<category>Pumps</category>
+		<dailyRate>45</dailyRate>
+		<weeklyRate>115</weeklyRate>
+	</tool>
+	<tool toolID="PU724-81">
+		<description>3" CENTRIFUGAL PUMP</description>
+		<category>Pumps</category>
+		<dailyRate>50</dailyRate>
+		<weeklyRate>125</weeklyRate>
+	</tool>
+	<tool toolID="PU585-34">
+		<description>3/4" SUBMERSIBLE PUMP</description>
+		<category>Pumps</category>
+		<dailyRate>20</dailyRate>
+		<weeklyRate>65</weeklyRate>
+	</tool>
+	<tool toolID="PU958-39">
+		<description>3/4" GARDEN HOSE PUMP</description>
+		<category>Pumps</category>
+		<dailyRate>22</dailyRate>
+		<weeklyRate>56</weeklyRate>
+	</tool>
+	<tool toolID="PU856-40">
+		<description>SUBMERSIBLE PUMP FLOOR LEVEL INTAKE</description>
+		<category>Pumps</category>
+		<dailyRate>35</dailyRate>
+		<weeklyRate>90</weeklyRate>
+	</tool>
+	<tool toolID="PU674-69">
+		<description>2" 1/2HP SUBMERSIBLE DEWATERING PUMP</description>
+		<category>Pumps</category>
+		<dailyRate>49</dailyRate>
+		<weeklyRate>210</weeklyRate>
+	</tool>
+	<tool toolID="PU583-45">
+		<description>2" 1/2HP SUBMERSIBLE PUMP AUTO FLOAT</description>
+		<category>Pumps</category>
+		<dailyRate>65</dailyRate>
+		<weeklyRate>205</weeklyRate>
+	</tool>
+	<tool toolID="GE499-75">
+		<description>2500 WATT GENERATOR</description>
+		<category>Generators</category>
+		<dailyRate>57</dailyRate>
+		<weeklyRate>170</weeklyRate>
+	</tool>
+	<tool toolID="GE734-21">
+		<description>3600 WATT GENERATOR</description>
+		<category>Generators</category>
+		<dailyRate>68</dailyRate>
+		<weeklyRate>225</weeklyRate>
+	</tool>
+	<tool toolID="GE328-58">
+		<description>6500 WATT GENERATOR</description>
+		<category>Generators</category>
+		<dailyRate>65</dailyRate>
+		<weeklyRate>180</weeklyRate>
+	</tool>
+	<tool toolID="GE654-19">
+		<description>1000 WATT GENERATOR</description>
+		<category>Generators</category>
+		<dailyRate>30</dailyRate>
+		<weeklyRate>85</weeklyRate>
+	</tool>
+</equipment>

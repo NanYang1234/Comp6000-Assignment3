@@ -1,0 +1,87 @@
+
+
+/* Default styles */
+
+* {
+   margin: 0px;
+}
+
+header, section, article {
+   display: block;
+}
+
+
+
+/* Body styles */
+body {
+   font-family: Verdana, Geneva, sans-serif;
+   background-color: rgb(178, 210,119);
+}
+
+div#wrap {
+   background-color: white;
+   margin: 0px auto;
+   width: 1200px;
+   border-left: 2px solid rgb(151, 151, 151);
+   border-right: 2px solid rgb(151, 151, 151);
+
+   box-shadow: rgb(51, 51, 51) 10px 0px 30px,
+               rgb(51, 51, 51) -10px 0px 30px;
+   padding-bottom: 50px;
+}
+
+
+div#wrap >  h1 {
+   font-size: 2.5em;
+   letter-spacing: 0.12em;
+   font-weight: normal;
+   color: #6bd51b;
+   text-shadow: black 1px 1px 1px;
+   padding: 15px 0px;  
+   font-family: 'Century Gothic', sans-serif;
+   text-align: left;
+   margin-left: 100px;
+}
+
+
+
+div#wrap > h2 {
+   margin: 25px 0px 5px 100px;
+   font-weight: normal;
+   font-size: 1.9em;
+   letter-spacing: 0.08em;
+   font-family: 'Century Gothic', sans-serif;
+   text-align: left;
+}
+
+table.head {
+   border-collapse: collapse;
+   margin: 5px 170px 30px 170px;
+   border: 2px solid #c3b451;
+}
+
+table.head th {
+   font-size: 0.8em;
+   text-align: left;
+   background-color: #ded598;
+   border: 1px solid rgb(91, 91, 91);
+   font-weight: normal;
+   vertical-align: top;
+   padding: 3px;
+   width: 100px;
+}
+
+table.head td {
+   font-size: 0.8em;
+   text-align: left;
+   vertical-align: top;
+   border: 1px solid rgb(91, 91, 91);
+   padding: 3px;
+   width: 300px;
+}
+
+table.head td.description {
+   font-family: 'Courier New', monospace;
+   padding: 20px;
+   background-color: rgb(231, 231, 231);
+}

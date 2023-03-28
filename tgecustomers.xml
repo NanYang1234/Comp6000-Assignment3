@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+   New Perspectives on XML 3rd Edition
+   Tutorial 8
+   Case Problem 4
+
+   The Good Earth customer list
+
+   Filename:         tgecustomers.xml
+   Supporting Files: 
+
+-->
+
+<customers>
+	<customer custID="cust115">
+		<firstName>Melissa</firstName>
+		<lastName>Ballew</lastName>
+		<street>717 Onarga Lane</street>
+		<city>Shreveport</city>
+		<state>LA</state>
+		<ZIP>71104</ZIP>
+	</customer>
+	<customer custID="cust117">
+		<firstName>Jae</firstName>
+		<lastName>Raymond</lastName>
+		<street>96 Janssen Street</street>
+		<city>Shreveport</city>
+		<state>LA</state>
+		<ZIP>71104</ZIP>
+	</customer>
+	<customer custID="cust123">
+		<firstName>Manuel</firstName>
+		<lastName>Simmons</lastName>
+		<street>272 Wells Street</street>
+		<city>Shreveport</city>
+		<state>LA</state>
+		<ZIP>71104</ZIP>
+	</customer>
+	<customer custID="cust138">
+		<firstName>Ellen</firstName>
+		<lastName>Garfinkel</lastName>
+		<street>398 Homer Street</street>
+		<city>Belcher</city>
+		<state>LA</state>
+		<ZIP>71004</ZIP>
+	</customer>
+	<customer custID="cust169">
+		<firstName>Ella</firstName>
+		<lastName>Howard</lastName>
+		<street>454 Edward Barron Avenue</street>
+		<city>Shreveport</city>
+		<state>LA</state>
+		<ZIP>71104</ZIP>
+	</customer>
+	<customer custID="cust220">
+		<firstName>James</firstName>
+		<lastName>Gonzales</lastName>
+		<street>891 Henry Avenue</street>
+		<city>Winnsboro</city>
+		<state>LA</state>
+		<ZIP>71295</ZIP>
+	</customer>
+	<customer custID="cust265">
+		<firstName>Cathi</firstName>
+		<lastName>Wood</lastName>
+		<street>133 Marble Boulevard</street>
+		<city>Baton Rouge</city>
+		<state>LA</state>
+		<ZIP>70807</ZIP>
+	</customer>
+	<customer custID="cust272">
+		<firstName>Henrietta</firstName>
+		<lastName>Gordon</lastName>
+		<street>803 Doty Lane</street>
+		<city>Akers</city>
+		<state>LA</state>
+		<ZIP>70421</ZIP>
+	</customer>
+	<customer custID="cust338">
+		<firstName>Christopher</firstName>
+		<lastName>Hammond</lastName>
+		<street>922 Sanitary Ship Canal Street</street>
+		<city>Saint Gabriel</city>
+		<state>LA</state>
+		<ZIP>70776</ZIP>
+	</customer>
+	<customer custID="cust376">
+		<firstName>Hannah</firstName>
+		<lastName>Cardenas</lastName>
+		<street>878 North Thomas Street</street>
+		<city>Bethany</city>
+		<state>LA</state>
+		<ZIP>71007</ZIP>
+	</customer>
+	<customer custID="cust381">
+		<firstName>Donald</firstName>
+		<lastName>Havens</lastName>
+		<street>983 Oconto Boulevard</street>
+		<city>Fort Polk</city>
+		<state>LA</state>
+		<ZIP>71459</ZIP>
+	</customer>
+	<customer custID="cust396">
+		<firstName>Claire</firstName>
+		<lastName>Thornton</lastName>
+		<street>623 East End Boulevard</street>
+		<city>Baton Rouge</city>
+		<state>LA</state>
+		<ZIP>70807</ZIP>
+	</customer>
+	<customer custID="cust397">
+		<firstName>Casey</firstName>
+		<lastName>Smith</lastName>
+		<street>921 Claremont Street</street>
+		<city>Baton Rouge</city>
+		<state>LA</state>
+		<ZIP>70807</ZIP>
+	</customer>
+	<customer custID="cust403">
+		<firstName>Christopher</firstName>
+		<lastName>Mattison</lastName>
+		<street>498 North Root Way</street>
+		<city>Scott</city>
+		<state>LA</state>
+		<ZIP>70583</ZIP>
+	</customer>
+	<customer custID="cust421">
+		<firstName>Mark</firstName>
+		<lastName>Bush</lastName>
+		<street>846 West Indianapolis Way</street>
+		<city>New Orleans</city>
+		<state>LA</state>
+		<ZIP>70145</ZIP>
+	</customer>
+	<customer custID="cust427">
+		<firstName>Marianna</firstName>
+		<lastName>Stephens</lastName>
+		<street>40 Broadway Lane</street>
+		<city>Shreveport</city>
+		<state>LA</state>
+		<ZIP>71104</ZIP>
+	</customer>
+	<customer custID="cust433">
+		<firstName>Joseph</firstName>
+		<lastName>Salcido</lastName>
+		<street>962 Garvey Way</street>
+		<city>Raceland</city>
+		<state>LA</state>
+		<ZIP>70394</ZIP>
+	</customer>
+	<customer custID="cust513">
+		<firstName>Connie</firstName>
+		<lastName>Baskerville</lastName>
+		<street>550 East Huron Way</street>
+		<city>Frierson</city>
+		<state>LA</state>
+		<ZIP>71027</ZIP>
+	</customer>
+	<customer custID="cust523">
+		<firstName>Jennifer</firstName>
+		<lastName>Clark</lastName>
+		<street>889 Fairfield Street</street>
+		<city>Shreveport</city>
+		<state>LA</state>
+		<ZIP>71104</ZIP>
+	</customer>
+	<customer custID="cust560">
+		<firstName>Kimberly</firstName>
+		<lastName>Jusino</lastName>
+		<street>475 West Brainard Lane</street>
+		<city>Baton Rouge</city>
+		<state>LA</state>
+		<ZIP>70807</ZIP>
+	</customer>
+	<customer custID="cust608">
+		<firstName>Lillian</firstName>
+		<lastName>Heppner</lastName>
+		<street>832 West Higgins Street</street>
+		<city>Shreveport</city>
+		<state>LA</state>
+		<ZIP>71104</ZIP>
+	</customer>
+	<customer custID="cust626">
+		<firstName>Peggy</firstName>
+		<lastName>Self</lastName>
+		<street>349 Point Boulevard</street>
+		<city>Rayville</city>
+		<state>LA</state>
+		<ZIP>71269</ZIP>
+	</customer>
+	<customer custID="cust654">
+		<firstName>Mario</firstName>
+		<lastName>Chapin</lastName>
+		<street>415 Scott Lane</street>
+		<city>Shreveport</city>
+		<state>LA</state>
+		<ZIP>71104</ZIP>
+	</customer>
+	<customer custID="cust728">
+		<firstName>Laura</firstName>
+		<lastName>Bartley</lastName>
+		<street>847 South 2nd Avenue</street>
+		<city>Greensburg</city>
+		<state>LA</state>
+		<ZIP>70441</ZIP>
+	</customer>
+	<customer custID="cust747">
+		<firstName>Kenneth</firstName>
+		<lastName>Burmeister</lastName>
+		<street>12 Mobile Lane</street>
+		<city>Ruston</city>
+		<state>LA</state>
+		<ZIP>71270</ZIP>
+	</customer>
+	<customer custID="cust779">
+		<firstName>Denna</firstName>
+		<lastName>Silva</lastName>
+		<street>609 Liano Avenue</street>
+		<city>Baton Rouge</city>
+		<state>LA</state>
+		<ZIP>70807</ZIP>
+	</customer>
+	<customer custID="cust822">
+		<firstName>Dana</firstName>
+		<lastName>Ball</lastName>
+		<street>242 North Garfield Way</street>
+		<city>Shreveport</city>
+		<state>LA</state>
+		<ZIP>71104</ZIP>
+	</customer>
+	<customer custID="cust841">
+		<firstName>Jarvis</firstName>
+		<lastName>Moseley</lastName>
+		<street>486 Niadem Avenue</street>
+		<city>Shreveport</city>
+		<state>LA</state>
+		<ZIP>71104</ZIP>
+	</customer>
+	<customer custID="cust898">
+		<firstName>Laura</firstName>
+		<lastName>Robinson</lastName>
+		<street>537 Johnson Street</street>
+		<city>White Castle</city>
+		<state>LA</state>
+		<ZIP>70788</ZIP>
+	</customer>
+	<customer custID="cust976">
+		<firstName>Juana</firstName>
+		<lastName>Mac Morrow</lastName>
+		<street>137 Kenton Street</street>
+		<city>Shreveport</city>
+		<state>LA</state>
+		<ZIP>71104</ZIP>
+	</customer>
+</customers>
